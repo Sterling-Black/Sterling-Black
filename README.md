@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sterling-black.github.io/cv/](https://sterling-black.github.io/cv/)
 
-- 💬 Ask me about **Nodejs, JavaScript**
+- 💬 Ask me about **Nodejs, JavaScript, C**
 
 - 📫 How to reach me **tambongsterling@gmail.com**
 
