@@ -3,7 +3,7 @@
 
 <!-- <br>
 <br> -->
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=28&duration=3000&pause=500&center=true&vCenter=true&width=998&height=53&lines=Hi 👋;I'm Tambong Stercy...;A+FullStack+web+developer;From+Cameroon;Nice+to+meet+you" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=28&duration=3000&pause=500&center=true&vCenter=true&width=998&height=53&lines=Hi;I'm Tambong Stercy...;A+FullStack+web+developer...;From+Cameroon;Nice+to+meet+you+😁" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sterling-black&label=Profile%20views&color=0e75b6&style=flat" alt="sterling-black" /> </p>
