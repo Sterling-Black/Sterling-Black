@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, python**
 
-- 👨‍💻 All of my projects are available at [https://sterling-black.github.io/cv/](https://sterling-black.github.io/cv/)
+- 👨‍💻 All of my projects are available at [https://sterling-black.github.io/portfolio/](https://sterling-black.github.io/portfolio/)
 
 - 💬 Ask me about **Nodejs, JavaScript, C**
 
