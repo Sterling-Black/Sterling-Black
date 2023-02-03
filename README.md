@@ -1,6 +1,9 @@
 [![MasterHead](https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Tambong Stercy</h1>
-<h3 align="center">A passionate FullStack web developer from Cameroon</h3>
+
+
+<!-- <br>
+<br> -->
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=28&duration=3000&pause=500&center=true&vCenter=true&width=998&height=53&lines=Hi 👋;I'm Tambong Stercy...;A+FullStack+web+developer;From+Cameroon;Nice+to+meet+you" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sterling-black&label=Profile%20views&color=0e75b6&style=flat" alt="sterling-black" /> </p>
